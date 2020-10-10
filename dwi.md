@@ -113,6 +113,7 @@
 ### Hex Descriptions
 
 - Lankshorn And Surrounds; ws2 p19-24
+  - 0410 Castle Everdusk, Lord Ramius; ws2 p21
   - 0609 The Trothstone and the Owl Cave; ws2 p19
   - 0610 Lankston Pool; ws2 p19
   - 0709 The Road to Lake Longmere; ws2 p20-21
