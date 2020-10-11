@@ -122,6 +122,7 @@
   - 0809 The Ditchway; ws2 p24
   - 0810 King's Mounds; ws2 p24
 - The Woods East of Lake Longmere; ws3 p15
+  - 0504 Falls of Naon; ws5 p8
   - 0604 Fort Vulgar; WtD p5
   - 0705 The Scrabey Who Forgot His Name; ws3 p15
   - 0706 The Phantom Isle; ws3 p16
